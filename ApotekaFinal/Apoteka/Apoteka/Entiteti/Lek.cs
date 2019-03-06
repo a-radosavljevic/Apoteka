@@ -12,7 +12,7 @@ namespace Apoteka.Entiteti
         public virtual string nacinDoziranjaZaOdrasle { get; set; }
         public virtual string nacinDoziranjaZaDecu { get; set; }
         public virtual string nacinDoziranjaZaTrudnice { get; set; }
-        public virtual int? cenaLeka { get; set; }
+        public virtual int cenaLeka { get; set; }
         public virtual int? procenatParticipacije { get; set; }
         public virtual string izdavanjeNaRecept { get; set; }
         public virtual string dejstvoLeka { get; set; }

@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Apoteka</RootNamespace>
     <AssemblyName>Apoteka</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -21,7 +21,8 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
+    <WarningLevel>2</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,6 +32,10 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FluentNHibernate">
@@ -58,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataLayer.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="DTOs.cs" />
     <Compile Include="Entiteti\Farmaceut.cs" />
     <Compile Include="Entiteti\Indikacije.cs" />
     <Compile Include="Entiteti\Kontraindikacije.cs" />
@@ -76,6 +83,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="LekoviPregledForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LekoviPregledForma.Designer.cs">
+      <DependentUpon>LekoviPregledForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogINFarmaceut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogINFarmaceut.Designer.cs">
+      <DependentUpon>LogINFarmaceut.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mapiranja\FarmaceutMapiranje.cs" />
     <Compile Include="Mapiranja\IndikacijeMapiranje.cs" />
     <Compile Include="Mapiranja\KontraindikacijeMapiranje.cs" />
@@ -87,10 +106,31 @@
     <Compile Include="Mapiranja\ProizvodjacMapiranje.cs" />
     <Compile Include="Mapiranja\ReceptMapiranje.cs" />
     <Compile Include="Mapiranja\ZaposleniMapiranje.cs" />
+    <Compile Include="ProdajnaMestaIzbor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProdajnaMestaIzbor.Designer.cs">
+      <DependentUpon>ProdajnaMestaIzbor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealizacijaReceptaZaLek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RealizacijaReceptaZaLek.Designer.cs">
+      <DependentUpon>RealizacijaReceptaZaLek.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LekoviPregledForma.resx">
+      <DependentUpon>LekoviPregledForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogINFarmaceut.resx">
+      <DependentUpon>LogINFarmaceut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProdajnaMestaIzbor.resx">
+      <DependentUpon>ProdajnaMestaIzbor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -100,7 +140,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RealizacijaReceptaZaLek.resx">
+      <DependentUpon>RealizacijaReceptaZaLek.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -113,7 +157,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

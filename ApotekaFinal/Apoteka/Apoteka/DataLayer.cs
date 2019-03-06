@@ -39,7 +39,8 @@ namespace Apoteka
             {
                 var cfg = OracleManagedDataClientConfiguration.Oracle10
                 .ConnectionString(c =>
-                    c.Is("Data Source=gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB;User Id=S15845;Password=S15845"));
+                     c.Is("Data Source=gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB;User Id=S15834;Password=Aleksandar96;"));
+                    //c.Is("Data Source=gislab-oracle.elfak.ni.ac.rs:1521/SBP_PDB;User Id=S15845;Password=luka24081996"));
 
                 return Fluently.Configure()
                     .Database(cfg)

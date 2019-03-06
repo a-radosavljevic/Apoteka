@@ -110,16 +110,16 @@ namespace Apoteka
                 Farmaceut f = new Farmaceut();
                 f.adresaZaposlenog = "Pantelejska";
                 f.brojTelefona = "+38164";
-                f.datumRodjenja = new DateTime(2009, 6, 1, 8, 42, 50);
-                f.ime = "Andjela";
+                f.datumRodjenja = DateTime.Now;
+                f.ime = "AN";
                 f.maticniBroj = "11111";
                 f.prezime = "Pr";
                 f.radi = p;
-                f.datumObnoveLicence = new DateTime(2009, 6, 1, 8, 42, 50);
-                f.datumDiplomiranja = new DateTime(2009, 6, 1, 8, 42, 50);
+                f.datumObnoveLicence = DateTime.Now;
+                f.datumDiplomiranja = DateTime.Now;
                 
-                s.SaveOrUpdate(f);
-
+                s.Save(f);
+                s.Flush();
                 s.Close();
 
             }
@@ -171,49 +171,50 @@ namespace Apoteka
         {
             try
             {
-                ISession sd = DataLayer.GetSession();
+                ISession q = DataLayer.GetSession();
 
                 
 
-                Proizvodjac p = sd.Load<Proizvodjac>(3);
-                
-
-                
-
+                Proizvodjac p = q.Load<Proizvodjac>(1);
 
                 Antipiretik a = new Antipiretik();
 
-                a.cenaLeka = 2000;
-                a.dejstvoLeka = "efikasno obaraju povišenu temperaturu";
-                a.hemijskiNaziv="C13H8O12";
-                a.komercijalniNaziv = "Ibuprofen";
+                a.komercijalniNaziv = "ggvbi";
+
+                a.cenaLeka = 11;
+                a.dejstvoLeka = "esdvru";
+                a.hemijskiNaziv="C12b23112";
+                
                 a.izdavanjeNaRecept = "DA";
     
-                a.nacinDoziranjaZaDecu = "na 8 sati";
+                a.nacinDoziranjaZaDecu = "na 10 sati";
                 a.nacinDoziranjaZaOdrasle = "na 8 sati";
                 a.nacinDoziranjaZaTrudnice = "na 8 sati";
                 a.pripadaProizvodjacu = p;
                 a.procenatParticipacije = 5;
 
                 Tableta t = new Tableta();
-                t.kolicina = 8;
-                t.sastav = "ne znam tacno";
+                t.kolicina = 1;
+                t.sastav = "gposasdasdasddnjig";
 
 
+                
 
-
-                sd.Save(a);
-
+                q.Save(a);
+                
                 t.pakujeLek = a;
+                
+                
+                
 
-                sd.Save(t);
+                q.Save(t);
 
                 a.listaPakovanja.Add(t);
 
                 
 
                 //sd.Flush();
-                sd.Close();
+                q.Close();
             }
 
             catch (Exception ec)
@@ -229,7 +230,7 @@ namespace Apoteka
                 ISession sd = DataLayer.GetSession();
 
                 ProdajnoMesto p = sd.Load<ProdajnoMesto>(4);
-                Lek l = sd.Load<Lek>("Ibuprofen");//nema ga u bazi ako se pokrece iz pocetka
+                Lek l = sd.Load<Lek>("ERITROMICIN");//nema ga u bazi ako se pokrece iz pocetka
                 Prodaje pr = new Prodaje();
                 pr.id.idLeka = l;
                 pr.id.idProdajnogMesta = p;
@@ -318,7 +319,7 @@ namespace Apoteka
                 //a.listaKontraindikacija.Add(k);
                 //sd.SaveOrUpdate(a);
 
-                sd.Flush();
+                //sd.Flush();
                 sd.Close();
             }
 
@@ -326,6 +327,12 @@ namespace Apoteka
             {
                 MessageBox.Show(ec.Message);
             }
+        }
+
+        private void btnDTO_Click(object sender, EventArgs e)
+        {
+            ProdajnaMestaIzbor PMI = new ProdajnaMestaIzbor();
+            PMI.Show();
         }
 
        
