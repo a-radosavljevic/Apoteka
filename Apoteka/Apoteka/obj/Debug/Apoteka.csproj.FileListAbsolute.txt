@@ -1,0 +1,86 @@
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.LekoviPregledForma.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.LogINFarmaceut.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.ProdajnaMestaIzbor.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.RealizacijaReceptaZaLek.resources
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.dll.config
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.LekoviPregledForma.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.LogINFarmaceut.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.ProdajnaMestaIzbor.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.RealizacijaReceptaZaLek.resources
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.dll.config
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.LekoviPregledForma.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.LogINFarmaceut.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.ProdajnaMestaIzbor.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.RealizacijaReceptaZaLek.resources
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Apoteka.dll.config
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Apoteka.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\FluentNHibernate.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\NHibernate.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\bin\Debug\NHibernate.xml
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.Form1.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.LekoviPregledForma.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.LogINFarmaceut.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.ProdajnaMestaIzbor.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.RealizacijaReceptaZaLek.resources
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.dll
+C:\Users\Nikola\Desktop\Apoteka\Apoteka\obj\Debug\Apoteka.pdb

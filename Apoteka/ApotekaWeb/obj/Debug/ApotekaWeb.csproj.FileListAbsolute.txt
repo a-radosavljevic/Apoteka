@@ -1,0 +1,168 @@
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\ApotekaWeb.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Http.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Razor.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\WebGrease.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Http.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.Razor.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\FluentNHibernate.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\NHibernate.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Iesi.Collections.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Apoteka.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\FluentNHibernate.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\FluentNHibernate.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\NHibernate.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Iesi.Collections.xml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\Apoteka\ApotekaWeb\bin\Apoteka.exe
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll.config
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\NHibernate.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Iesi.Collections.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.pdb
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\NHibernate.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Iesi.Collections.xml
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.dll
+C:\Users\ASUS\Desktop\Sistemi Baza podataka\Projekat\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll.config
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\ApotekaWeb.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Helpers.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Mvc.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Optimization.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Razor.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\WebGrease.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\NHibernate.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Iesi.Collections.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.dll.config
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Apoteka.exe.config
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Helpers.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Mvc.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Optimization.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.Razor.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.pdb
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\FluentNHibernate.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\NHibernate.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\bin\Iesi.Collections.xml
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csprojResolveAssemblyReference.cache
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csproj.CoreCompileInputs.cache
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csproj.CopyComplete
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.dll
+C:\Users\andje\AppData\Roaming\Skype\My Skype Received Files\4 zadatak\4 zadatak\Apoteka (1)\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.pdb
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll.config
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\ApotekaWeb.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\ApotekaWeb.pdb
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Apoteka.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Helpers.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Http.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Mvc.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Optimization.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Razor.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\WebGrease.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\FluentNHibernate.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\NHibernate.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Iesi.Collections.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Apoteka.pdb
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Newtonsoft.Json.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Helpers.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Http.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Mvc.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Optimization.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.Razor.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\FluentNHibernate.pdb
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\FluentNHibernate.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\NHibernate.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\bin\Iesi.Collections.xml
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.dll
+C:\Users\Nikola\Desktop\Apoteka\ApotekaWeb\obj\Debug\ApotekaWeb.pdb
